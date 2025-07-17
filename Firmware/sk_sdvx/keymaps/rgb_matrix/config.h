@@ -1,0 +1,4 @@
+#pragma once
+
+#define ENCODER_MAP_KEY_DELAY 30
+/* K02,K10,K11,K13,K14,K20,K24 ENCODER-A-B */

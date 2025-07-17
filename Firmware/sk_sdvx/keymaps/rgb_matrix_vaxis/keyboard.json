@@ -1,0 +1,15 @@
+{
+    "features": {
+        "joystick": true
+    },
+    "joystick": {
+        "enabled": true,
+        "driver": "digital",
+        "button_count": 0,
+        "axis_resolution": 8,
+        "axes": {
+            "x": "virtual",
+            "y": "virtual"
+        }
+    }
+}
